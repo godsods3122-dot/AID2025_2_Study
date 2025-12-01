@@ -45,8 +45,11 @@ link: https://sumptuous-beak-1b0.notion.site/26ee753445ba80f5b2b3ec69bd2ee812
 | Week 5 | 3장, 최소제곱법 | (작성 예정) |
 | Week 6 | 3장, 편향 분산 분해와 베이지안 선형 회귀 | (작성 예정) |
 | Week 7 | 4장, 선형 분류 모델과 피셔의 선형 판별 | (작성 예정) |
+| Week 8 | 회식 및 스터디 종료 | |
+| Week 9 | 프로젝트 | |
 
 ---
+
 
 
 
